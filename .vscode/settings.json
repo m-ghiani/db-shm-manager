@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "bincode",
+    "Condvar",
+    "cvar",
+    "dbshm",
+    "dtype",
+    "fcntl",
+    "flink",
+    "libc",
+    "ndarray",
+    "Shmem"
+  ]
+}
